@@ -1,4 +1,4 @@
-# AntipozharAerodynamicsLaboratory
+# Antipozhar Aerodynamics Laboratory
 Programs for calculate air volume in aerodynamics laboratory
 Программа для расчета объемного расхода воздуха в помещении
 при нормальных условиях: температура  273,15К; давление 101,3кПа. Вводимые данные: средняя скорость
